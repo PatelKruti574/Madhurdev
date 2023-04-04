@@ -1,11 +1,11 @@
 {
-"STATUS":false,
+"STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
-       "applovin_fberrorshow":""
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":"1"
    },
    "PLACEMENT":{
       "Admob":{
@@ -18,7 +18,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
          "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
          "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
@@ -58,11 +58,11 @@
           "AppID":" "
       },
        "applovin":{
-         "ad_showAdStatus":"",
-         "applovin_intretial":"4bc763097e532817",
-          "applovin_baner":"21167088e88c776c",
-          "applovin_native":"fddc370e2436a416",
-          "applovin_native1":"fddc370e2436a416"
+         "ad_showAdStatus":"1",
+         "applovin_intretial":"03fa45c0f3144afc",
+          "applovin_baner":"",
+          "applovin_native":"972eb2d420a04bdf",
+          "applovin_native1":"270280597b19c8be"
       },
       "QurekaLite":{
          "ad_showAdStatus":"1",
